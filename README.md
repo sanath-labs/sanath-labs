@@ -64,19 +64,21 @@ Hi! I'm **Sanath**, a third-year **Information Science and Engineering (ISE)** s
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sanath-labs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sanath GitHub statistics"/>
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=sanath-labs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanath-labs&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sanath-labs&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=sanath-labs&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=sanath-labs&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
+
 
 ---
 
