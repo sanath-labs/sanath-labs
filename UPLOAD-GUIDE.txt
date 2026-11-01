@@ -1,0 +1,25 @@
+SANATH-LABS GITHUB PROFILE — UPLOAD GUIDE
+
+1. Create a PUBLIC repository named exactly: sanath-labs
+   https://github.com/sanath-labs/sanath-labs
+
+2. Upload README.md to the repository root and commit it.
+
+3. Upload snake.yml at this exact repository path:
+   .github/workflows/snake.yml
+   Create the .github and workflows folders if needed, then commit.
+
+4. Open the repository Actions tab.
+   Select "Generate Contribution Snake" and click "Run workflow".
+   Wait for a green success check. It publishes SVG files to the output branch.
+
+5. Refresh your GitHub profile. The snake should then load.
+
+6. Edit the Featured Projects section in README.md and replace sample entries
+   with your actual project names and links.
+
+NOTES
+- Banner, typing effect, stats, streak, activity graph and trophy cards use
+  third-party image services and may occasionally be unavailable.
+- The snake will not appear until the Actions workflow runs successfully.
+- The banner uses an original dark red/navy gradient, not a Spider-Man image.
