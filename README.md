@@ -82,15 +82,6 @@ Hi! I'm **Sanath**, a third-year **Information Science and Engineering (ISE)** s
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanath-labs&bg_color=0D1117&color=60A5FA&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
